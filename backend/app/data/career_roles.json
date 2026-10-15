@@ -1,0 +1,83 @@
+[
+  {
+    "id": "python-dev",
+    "title": "Python Developer",
+    "category": "Backend & Software Engineering",
+    "description": "Designs, develops, and maintains scalable backend services, asynchronous worker queues, and REST APIs using Python frameworks.",
+    "core_skills": ["Python", "FastAPI", "SQL", "Git & GitHub", "REST APIs"],
+    "preferred_skills": ["Docker", "Redis", "PostgreSQL", "Unit Testing", "CI/CD"],
+    "min_experience_years": 1.0
+  },
+  {
+    "id": "ml-engineer",
+    "title": "Machine Learning Engineer",
+    "category": "Artificial Intelligence & Data Science",
+    "description": "Builds and productionizes machine learning pipelines, feature stores, and model inference services.",
+    "core_skills": ["Python", "Machine Learning", "Scikit-Learn", "NumPy", "Pandas"],
+    "preferred_skills": ["PyTorch", "TensorFlow", "Docker", "Deep Learning", "SQL"],
+    "min_experience_years": 1.5
+  },
+  {
+    "id": "nlp-engineer",
+    "title": "NLP Engineer",
+    "category": "Artificial Intelligence & Data Science",
+    "description": "Specializes in text processing, language modeling, information extraction, vector embeddings, and semantic search architectures.",
+    "core_skills": ["Python", "Natural Language Processing (NLP)", "Large Language Models (LLMs)", "Scikit-Learn", "spaCy"],
+    "preferred_skills": ["PyTorch", "Hugging Face", "LangChain", "Elasticsearch", "Docker"],
+    "min_experience_years": 1.5
+  },
+  {
+    "id": "frontend-dev",
+    "title": "Frontend Developer",
+    "category": "Web Development",
+    "description": "Builds intuitive, responsive user interfaces, design systems, and client-side applications.",
+    "core_skills": ["JavaScript", "TypeScript", "React", "HTML/CSS", "Tailwind CSS"],
+    "preferred_skills": ["Next.js", "REST APIs", "Git & GitHub", "Unit Testing"],
+    "min_experience_years": 1.0
+  },
+  {
+    "id": "backend-dev",
+    "title": "Backend Developer",
+    "category": "Backend & Software Engineering",
+    "description": "Engineers high-throughput server-side applications, microservices, databases, and message brokers.",
+    "core_skills": ["Python", "Node.js", "REST APIs", "SQL", "Git & GitHub"],
+    "preferred_skills": ["Docker", "Kubernetes", "PostgreSQL", "Redis", "Apache Kafka"],
+    "min_experience_years": 2.0
+  },
+  {
+    "id": "fullstack-dev",
+    "title": "Full-Stack Developer",
+    "category": "Web Development",
+    "description": "Architects end-to-end web applications bridging modern responsive interfaces with scalable server architecture.",
+    "core_skills": ["JavaScript", "TypeScript", "React", "Node.js", "SQL", "REST APIs"],
+    "preferred_skills": ["Docker", "PostgreSQL", "Next.js", "Git & GitHub", "CI/CD"],
+    "min_experience_years": 2.0
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "category": "Data & Analytics",
+    "description": "Transforms raw transactional data into actionable operational insights, dashboards, and metric reports.",
+    "core_skills": ["SQL", "Python", "Pandas", "Problem Solving", "Communication Skills"],
+    "preferred_skills": ["R", "PostgreSQL", "MySQL", "Agile / Scrum"],
+    "min_experience_years": 1.0
+  },
+  {
+    "id": "qa-engineer",
+    "title": "QA Automation Engineer",
+    "category": "Quality Assurance & Testing",
+    "description": "Develops automated test frameworks, regression suites, and CI/CD quality gates.",
+    "core_skills": ["Python", "Unit Testing", "Git & GitHub", "Problem Solving"],
+    "preferred_skills": ["CI/CD", "Docker", "Linux", "REST APIs", "Agile / Scrum"],
+    "min_experience_years": 1.0
+  },
+  {
+    "id": "business-analyst",
+    "title": "Business Analyst",
+    "category": "Business & Strategy",
+    "description": "Bridges technical engineering deliverables with enterprise business requirements, user stories, and acceptance criteria.",
+    "core_skills": ["Communication Skills", "Problem Solving", "Agile / Scrum", "JIRA", "Team Collaboration"],
+    "preferred_skills": ["SQL", "Leadership", "Data Structures & Algorithms"],
+    "min_experience_years": 1.5
+  }
+]

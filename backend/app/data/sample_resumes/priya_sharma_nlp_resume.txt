@@ -1,0 +1,32 @@
+[SYNTHETIC DEMO RESUME - FOR EDUCATIONAL TESTING ONLY]
+
+Priya Sharma
+priya.sharma@example.edu | +1 (555) 789-0123 | New York, NY | linkedin.com/in/priyasharma-nlp
+
+SUMMARY
+NLP Engineer & Machine Learning Specialist with 2+ years of experience building transformer-based representations, semantic search systems, and named entity recognition pipelines. Deep expertise in Python, PyTorch, Scikit-Learn, and Hugging Face.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++
+- AI / Machine Learning: Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Computer Vision
+- Frameworks & Libraries: PyTorch, Hugging Face, Scikit-Learn, spaCy, Pandas, NumPy, LangChain
+- Cloud & Infrastructure: Docker, Amazon Web Services (AWS), Git & GitHub, Linux
+- Core Competencies: Problem Solving, Data Structures & Algorithms, Team Collaboration
+
+EXPERIENCE
+Machine Learning Engineer | SemanticAI Labs
+July 2022 – Present | New York, NY
+- Fine-tuned open-source Large Language Models (LLMs) and BERT-based encoders for enterprise question-answering, boosting F1-score by 18.4%.
+- Developed an automated resume parsing and skill extraction engine using spaCy and token-level classification, processing 50,000+ candidate profiles monthly.
+- Engineered high-dimensional vector similarity retrieval utilizing FAISS and sentence embeddings, dropping retrieval latency to sub-30ms.
+- Containerized model inference microservices with Docker and deployed them on AWS EC2 GPU instances.
+
+RESEARCH & PROJECTS
+- Clinical NLP Concept Extractor: Built an information extraction pipeline with PyTorch and Hugging Face Transformers to detect medical entities with 92% precision.
+- Conversational RAG Assistant: Implemented a Retrieval-Augmented Generation agent using LangChain, FastAPI, and vector embeddings.
+
+EDUCATION
+Master of Science in Computer Science (Specialization: Natural Language Processing)
+Columbia University | 2022
+Bachelor of Technology in Computer Science & Engineering
+National Institute of Technology | 2020

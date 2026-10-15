@@ -1,0 +1,27 @@
+[SYNTHETIC DEMO JOB DESCRIPTION - FOR TESTING ONLY]
+
+Job Title: NLP & Machine Learning Engineer
+Company: DeepText AI Solutions
+Location: New York, NY / Remote
+
+About the Role:
+We are looking for an innovative NLP & Machine Learning Engineer to design and deploy modern language models, semantic similarity retrieval engines, and text analytics pipelines.
+
+Required Skills & Qualifications:
+- 2+ years of hands-on experience in Machine Learning and Natural Language Processing (NLP).
+- Strong proficiency in Python and scientific computing libraries (NumPy, Pandas, Scikit-Learn).
+- Solid experience with deep learning frameworks, specifically PyTorch.
+- Experience with transformer libraries such as Hugging Face and Large Language Models (LLMs).
+- Hands-on experience with vector embeddings and semantic search.
+- Master's or Bachelor's degree in Computer Science, Data Science, or related field.
+
+Preferred Skills:
+- Experience with spaCy for text processing and information extraction.
+- Experience with LangChain or LlamaIndex for conversational agents.
+- Familiarity with cloud deployment on Amazon Web Services (AWS) and Docker.
+- Experience with vector databases and Elasticsearch.
+
+Key Responsibilities:
+- Design, fine-tune, and evaluate state-of-the-art transformer and LLM architectures.
+- Optimize semantic embedding inference pipelines for low latency and high accuracy.
+- Collaborate with software engineers to integrate ML models into production microservices.

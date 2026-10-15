@@ -1,0 +1,36 @@
+[SYNTHETIC DEMO RESUME - FOR EDUCATIONAL TESTING ONLY]
+
+Alex Morgan
+alex.morgan@example.com | +1 (555) 234-5678 | San Francisco, CA | github.com/alexmorgan-dev
+
+PROFESSIONAL SUMMARY
+Results-driven Full-Stack Software Engineer with 3+ years of experience designing and deploying scalable web applications, RESTful microservices, and asynchronous event pipelines. Proficient in Python, JavaScript, TypeScript, React, and PostgreSQL.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript, TypeScript, SQL, HTML/CSS
+- Frameworks & Libraries: FastAPI, React, Node.js, Express.js, Tailwind CSS
+- Databases & Cloud: PostgreSQL, Redis, Docker, Amazon Web Services (AWS)
+- Tools & Methodologies: Git & GitHub, CI/CD, Unit Testing, Agile / Scrum
+
+WORK EXPERIENCE
+Full-Stack Software Engineer | CloudSphere Solutions
+June 2022 – Present | San Francisco, CA
+- Architected and deployed 12+ REST APIs using FastAPI and PostgreSQL, serving 250,000+ daily active users with 99.98% uptime.
+- Engineered responsive client-side user interfaces with React and Tailwind CSS, reducing page load latency by 35%.
+- Implemented asynchronous background task processing using Redis and Celery, cutting report generation turnaround from 14 minutes to 45 seconds.
+- Integrated automated CI/CD deployment pipelines using GitHub Actions and Docker, accelerating release cadence from bi-weekly to daily.
+
+Junior Software Developer | Apex Data Systems
+August 2021 – May 2022 | Austin, TX
+- Developed modular backend services in Node.js and SQL to ingest and validate IoT sensor telemetry.
+- Collaborated with cross-functional teams in an Agile / Scrum workflow to deliver bi-weekly sprint deliverables on schedule.
+- Authored comprehensive unit testing suites with Jest and PyTest, increasing test branch coverage from 62% to 88%.
+
+KEY PROJECTS
+- SmartDoc Parser: Full-stack document processing portal utilizing FastAPI, React, and Docker to parse and search PDF archives.
+- Real-Time Chat Engine: Scalable WebSocket communication application built with Node.js, Redis pub/sub, and PostgreSQL.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Davis | Graduated May 2021
+Relevant Coursework: Data Structures & Algorithms, Database Systems, Web Architecture, Distributed Systems

@@ -1,0 +1,29 @@
+[SYNTHETIC DEMO JOB DESCRIPTION - FOR TESTING ONLY]
+
+Job Title: Senior Python Backend Engineer
+Company: NextGen Cloud Technologies
+Location: Remote / Hybrid
+
+About the Role:
+NextGen Cloud Technologies is seeking a Senior Python Backend Engineer to spearhead the development of our high-concurrency cloud API platform. You will architect distributed microservices, design robust database models, and ensure high availability across global infrastructure.
+
+Required Qualifications & Skills:
+- 3+ years of professional software engineering experience with Python.
+- Strong hands-on experience building REST APIs with FastAPI or Django.
+- Solid experience with relational databases, particularly PostgreSQL and SQL query optimization.
+- Familiarity with containerization using Docker.
+- Experience with Git & GitHub and automated CI/CD workflows.
+- Strong grounding in Data Structures & Algorithms and Unit Testing.
+- Bachelor's degree in Computer Science or related engineering discipline.
+
+Preferred & Nice-to-Have Skills:
+- Experience with distributed caches like Redis.
+- Knowledge of cloud platforms such as Amazon Web Services (AWS) or Google Cloud Platform (GCP).
+- Exposure to message brokers like Apache Kafka.
+- Experience with Kubernetes container orchestration.
+- Familiarity with Agile / Scrum methodologies.
+
+Responsibilities:
+- Architect, build, and maintain low-latency backend services.
+- Partner with product managers and frontend engineers to ship critical features.
+- Participate in code reviews and mentor junior engineering team members.
